@@ -1,0 +1,19 @@
+.heading{
+    color: #6495ed;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.title{
+    color: #663399;
+    text-align: center;
+    background-color: #36bdcf;
+    border: 2px solid #663399;
+    width: 100%;
+}
+div > p{
+    text-align: center;
+    color: #dc143c;
+    background-color:#6494ed63;
+    border: 2px solid #dc143c;
+}
